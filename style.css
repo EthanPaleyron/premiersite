@@ -1,0 +1,30 @@
+.police1{
+  font-family: Arial;
+}
+.txtR{
+  font-style: italic;
+  color: tomato;
+}
+.txtB{
+  font-style: italic;
+  color: aquamarine
+}
+.txtV{
+  font-style: italic;
+  color: goldenrod;
+}
+.police2{
+  font-family: cursive;
+}
+.back1{
+  background-color: tomato;
+  font-style: italic;
+}
+.back2{
+  background-color: aquamarine;
+  font-style: italic;
+}
+.back3{
+  background-color: goldenrod;
+  font-style: italic;
+}
